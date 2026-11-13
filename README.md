@@ -79,8 +79,6 @@ I enjoy building practical software applications, integrating AI into real-world
 - Seaborn
 - Plotly
 - Streamlit
-- Power BI
-- Generative AI Integration
 - AI API Integration
 
 ## 🗄️ Databases
